@@ -7,7 +7,7 @@ Fernandez Aroni Franky Adriel
 
 Gutierrez Mazzetti Nicole Alexandra
 
-## ⚠️ Importante! ⚠️
+## Importante
 tensorflow = 2.x
 
 ## 🔍 ¡Analizando el repositorio!
